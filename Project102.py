@@ -8,9 +8,6 @@ import shutil
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-# from_dir = "ENTER THE PATH OF DOWNLOAD FOLDER (USE " / ") in VSC"
-# to_dir = "ENTER THE PATH OF DESTINATION FOLDER(USE " / ") in VSC"
-
 from_dir = "C:/Users/nirmi/Downloads"
 to_dir = "C:/Users/nirmi/OneDrive/Pictures/fh9hed9ejd9"
 
